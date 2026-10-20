@@ -14,6 +14,7 @@
 ## X-Curse-Repository-ID: wow/mapster/mainline
 
 ## OptionalDeps: Ace3, LibBabble-Zone-3.0, LibWindow-1.1
+## X-Nozdor-DemonHunter: 1
 
 #@no-lib-strip@
 Libs\LibStub\LibStub.lua
